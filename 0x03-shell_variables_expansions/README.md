@@ -1,6 +1,6 @@
 Description of script files
 
-0-alias: a script that creates an alias(Name: ls Value: rm *
+0-alias: a script that creates an alias(Name: ls Value: rm *)
 
 1-hello_you: a script that prints hello user, where user is the current Linux user.)
 
@@ -25,10 +25,9 @@ Value: School)
 
 11-binary_to_decimal: a script that converts a number from base 2 to base 10. (The number in base 2 is stored in the environment variable BINARY and The script should display the number in base 10, followed by a new line)
 
-12-combinations: a script that prints all possible combinations of two letters, except oo.
-(Letters are lower cases, from a to z
-One combination per line
-The output should be alpha ordered, starting with aa
-Do not print oo and Your script file should contain maximum 64 characters)
+12-combinations: a script that prints all possible combinations of two letters, except oo.(Letters are lower cases, from a to z
+One combination per line,
+The output should be alpha ordered, starting with aa,
+Do not print oo, and Your script file should contain maximum 64 characters)
 
 13-print_float: a script that prints a number with two decimal places, followed by a new line. (The number will be stored in the environment variable NUM)
